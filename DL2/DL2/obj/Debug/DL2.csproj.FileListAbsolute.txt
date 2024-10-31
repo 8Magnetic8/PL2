@@ -1,0 +1,10 @@
+D:\DL2\DL2\bin\Debug\DL2.exe.config
+D:\DL2\DL2\bin\Debug\DL2.exe
+D:\DL2\DL2\bin\Debug\DL2.pdb
+D:\DL2\DL2\obj\Debug\DL2.csproj.AssemblyReference.cache
+D:\DL2\DL2\obj\Debug\DL2.Form1.resources
+D:\DL2\DL2\obj\Debug\DL2.Properties.Resources.resources
+D:\DL2\DL2\obj\Debug\DL2.csproj.GenerateResource.cache
+D:\DL2\DL2\obj\Debug\DL2.csproj.CoreCompileInputs.cache
+D:\DL2\DL2\obj\Debug\DL2.exe
+D:\DL2\DL2\obj\Debug\DL2.pdb
